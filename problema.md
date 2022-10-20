@@ -37,7 +37,7 @@
 Tenga en cuenta que tiene flexibilidad para resolver el problema. Solo asegúrese de cumplir con las actividades. Puede utilizar librerías adicionales si lo desea. 
 
 
-### Cómo enviar proyecto final:
+### Cómo enviar el trabajo de consulta:
 
 El repositorio debe actualizarse de forma continua, creando los commits necesarios. Su proyecto debe contener todos los archivos necesarios para ejecutar su programa. Esto último es útil para asegurarse de que se revise su programa con los datos con los que lo probó.
 
